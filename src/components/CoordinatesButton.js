@@ -6,6 +6,7 @@ export default class CoordinatesButton extends Component {
   render() {
     return(
       <button
+      onClick=
       >
       </button>
     )
