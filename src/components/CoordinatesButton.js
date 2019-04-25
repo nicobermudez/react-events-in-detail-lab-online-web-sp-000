@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class CoordinatesButton extends Component {
+export default class CoordinatesButton extends React.Component {
 
   findCoordinates = (event) => {
     const coordinatesArray = [event.clientX, event.clientY]
