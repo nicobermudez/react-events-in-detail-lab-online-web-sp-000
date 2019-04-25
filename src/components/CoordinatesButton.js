@@ -4,7 +4,8 @@ export default class CoordinatesButton extends Component {
 
   findCoordinates = (event) => {
     const coordinatesArray = [
-      
+      event.clientX,
+      event.clientY
     ]
   }
 
