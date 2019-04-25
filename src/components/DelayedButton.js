@@ -7,8 +7,8 @@ export default class DelayedButton extends Component {
   render() {
     return (
       <button
-      onClick={}
-      >
+      onClick={this.handleClick}
+      >Delayed
       </button>
     )
   }
