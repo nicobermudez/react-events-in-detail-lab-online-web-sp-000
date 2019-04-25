@@ -4,7 +4,7 @@ export default class DelayedButton extends Component {
 
   render() {
     return (
-      <button 
+      <button
       >
       </button>
     )
