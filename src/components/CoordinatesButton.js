@@ -4,10 +4,10 @@ export default class CoordinatesButton extends Component {
   constructor() {
     
   }
-  
+
   render() {
     return(
-      
+
     )
   }
 }
